@@ -1,16 +1,18 @@
 # github-style
 
-## 已知问题
+## 已知问题 *(Known Issues)*
 
-- 多个可点击元素点击后会出现蓝色的边框
-- 移动端模式下点击热力图可能会导致样式错乱
+- 多个可点击元素点击后会出现蓝色的边框 *(A blue border will appear after multiple clickable elements are clicked)*
+- 移动端模式下点击热力图可能会导致样式错乱 *(Clicking on the heat map in mobile mode may cause style confusion)*
 
 ## TODO
 
-- 评论
-- 自定义菜单
-- 更多链接平台支持
-- 热力图和底部列表的时区问题
+- 评论 *(comment)*
+- 自定义菜单 *(custom menu)*
+- 更多链接平台支持 *(More link platform support)*
+- 热力图和底部列表的时区问题 *(Heat map and time zone issues in the bottom list)*
+
+
 
 ## Init hugo site
 
